@@ -1,0 +1,96 @@
+/* Signup.scss */
+
+/* Reset and basic styles for Signup component */
+.signup-wrapper * {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.signup-wrapper {
+  background-color: lightblue;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+.signup-wrapper body {
+  font-family: Arial, sans-serif;
+  // background-color: #f2f2f2;
+}
+
+.signup-wrapper {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.signup-wrapper .main-w3layouts {
+  width: 100%;
+  max-width: 400px;
+  padding: 20px;
+  background-color: #fff;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  border-radius: 8px;
+  text-align: center;
+}
+
+.signup-wrapper .main-w3layouts h1 {
+  margin-bottom: 20px;
+  font-size: 24px;
+  color: #333;
+}
+
+.signup-wrapper input[type="text"],
+.signup-wrapper input[type="email"],
+.signup-wrapper input[type="password"],
+.signup-wrapper input[type="date"],
+.signup-wrapper input[type="submit"],
+.signup-wrapper input[type="checkbox"] {
+  width: 100%;
+  margin-bottom: 15px;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  // background-color: #fff;
+  font-size: 14px;
+}
+
+.signup-wrapper input[type="submit"] {
+  background-color: #4CAF50;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+
+.signup-wrapper input[type="submit"]:hover {
+  background-color: #45a049;
+}
+
+.signup-wrapper label {
+  margin-bottom: 5px;
+  display: block;
+}
+
+.signup-wrapper .error-message {
+  color: red;
+  margin-top: 5px;
+}
+
+.signup-wrapper a {
+  color: blue;
+  text-decoration: none;
+}
+
+.signup-wrapper a:hover {
+  text-decoration: underline;
+}
+
+.signup-wrapper .wthree-text {
+  margin-bottom: 15px;
+  text-align: left;
+}
+
+.signup-wrapper .agileits-top {
+  padding: 0 20px;
+}

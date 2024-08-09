@@ -1,0 +1,87 @@
+@REM   .slider_section {
+@REM       position: relative;
+@REM       width: 100%;
+@REM       height: 100vh;
+@REM       display: flex;
+@REM       align-items: center;
+@REM       background: #f8f9fa;
+@REM     }
+
+@REM     .slider_container {
+@REM       width: 100%;
+@REM     }
+
+@REM     .carousel-inner {
+@REM       width: 100%;
+@REM       height: 100%;
+@REM     }
+
+@REM     .detail-box {
+@REM       display: flex;
+@REM       flex-direction: column;
+@REM       justify-content: center;
+@REM       padding: 20px;
+@REM     }
+
+@REM     .detail-box h1 {
+@REM       font-size: 48px;
+@REM       font-weight: bold;
+@REM       margin-bottom: 20px;
+@REM     }
+
+@REM     .detail-box p {
+@REM       font-size: 16px;
+@REM       margin-bottom: 20px;
+@REM     }
+
+@REM     .detail-box a {
+@REM       font-size: 16px;
+@REM       padding: 10px 20px;
+@REM       background: #d63031;
+@REM       color: #fff;
+@REM       text-decoration: none;
+@REM       border-radius: 5px;
+@REM     }
+
+@REM     .img-box {
+@REM       text-align: center;
+@REM     }
+
+@REM     .img-box img {
+@REM       max-width: 100%;
+@REM       height: auto;
+@REM       border-radius: 5px;
+@REM     }
+
+input[type=text], input[type=password]{
+    background-color:white
+}
+.gift_section .detail-box .btn-box a {
+    width: 160px;
+    text-align: center;
+    /* margin: 5px; */
+    margin-right: -129px;
+    margin-left: 161px;
+}
+.info_section {
+    position: relative;
+    background-color: #2d2d2d;
+    color: #ffffff;
+    margin: 50px 45px 45px;
+}
+.heading_container {
+  text-align: center;
+}
+
+.heading_center {
+  text-align: center;
+  font-size: 22px;
+  color: #333;
+  margin-bottom: 20px;
+  padding-top: 26px
+}
+
+.layout_padding {
+    padding-top: 20px;
+    padding-bottom: 62px;
+}

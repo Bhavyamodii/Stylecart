@@ -1,0 +1,163 @@
+/* Shop Section */
+.shop_section {
+  padding: 60px 0;
+  background-color: #f9f9f9;
+}
+
+.heading_container {
+  margin-bottom: 25px;
+}
+
+.heading_center h2 {
+  @REM font-size: 2.5em;
+  color: #333;
+  margin-bottom: 20px;
+}
+
+.row {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+
+/* Product Card */
+.box {
+  border: 1px solid #e0e0e0;
+  border-radius: 8px;
+  overflow: hidden;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  transition: transform 0.3s, box-shadow 0.3s;
+  margin: 20px;
+  padding: 20px;
+  text-align: center;
+  background-color: #fff;
+}
+
+.box:hover {
+  transform: translateY(-10px);
+  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+}
+
+/* Product Image */
+.img-box img {
+  max-width: 100%;
+  height: auto;
+  margin-bottom: 15px;
+}
+
+/* Product Details */
+.detail-box h6 {
+  font-size: 1.2em;
+  margin-bottom: 10px;
+  color: #333;
+}
+
+.detail-box p {
+  font-size: 0.9em;
+  color: #888;
+  margin-bottom: 10px;
+}
+
+.detail-box h6 span {
+  font-size: 1.1em;
+  color: #e74c3c;
+}
+
+/* Add to Cart Button */
+.detail-box button {
+  padding: 10px 20px;
+  font-size: 1em;
+  color: #fff;
+  background-color: #e74c3c;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s;
+}
+
+.detail-box button:hover {
+  background-color: #c0392b;
+}
+
+/* New Label */
+.new span {
+  display: inline-block;
+  padding: 5px 10px;
+  font-size: 0.8em;
+  color: #fff;
+  background-color: #27ae60;
+  border-radius: 4px;
+}
+
+/* Popup */
+.popup {
+  position: fixed;
+  top: 20px;
+  right: 20px;
+  background-color: #f44336;
+  color: #fff;
+  padding: 15px;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.btn-box a {
+  display: inline-block;
+  padding: 10px 20px;
+  font-size: 1em;
+  color: #fff;
+  background-color: #e74c3c;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s;
+  text-decoration: none;
+}
+
+.btn-box a:hover {
+  background-color: white;
+}
+/* Shop.css */
+
+.popup {
+  position: fixed;
+  top: 35%;
+  left: 40%;
+  @REM transform: translate(-50%, -50%);
+  max-width: 300px; /* Adjust the width as needed */
+  background-color: rgba(0, 0, 0, 0.8);
+  color: white;
+  padding: 20px;
+  border-radius: 8px;
+  z-index: 999;
+  text-align: center;
+  overflow: hidden; /* Prevents scrollbars */
+}
+
+.popup p {
+  margin-bottom: 10px;
+}
+
+.popup button {
+  @REM background-color: transparent; /* Set background color to transparent */
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.popup button:hover {
+  background-color: rgba(255, 255, 255, 0.2); /* Lighten the background on hover if needed */
+}
+.saving_section .detail-box .btn-box a {
+    width: 165px;
+    text-align: center;
+    /* margin: 5px; */
+    margin-right: -96px;
+    margin-left: 124px;
+}
+.shop_section .heading_container {
+    margin-bottom: 10px;
+}
