@@ -15,7 +15,7 @@ function Header() {
       <header className="header_section">
         <nav className="navbar navbar-expand-lg custom_nav-container">
           <NavLink className="navbar-brand" to="/">
-            <span>Giftos</span>
+          <i><span>StyleCart</span></i>
           </NavLink>
           <button
             className="navbar-toggler"

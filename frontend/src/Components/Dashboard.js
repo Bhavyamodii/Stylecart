@@ -105,11 +105,11 @@ function Dashboard() {
                       <div className="col-md-6">
                         <div className="detail-box">
                           <h1>
-                            Welcome To Our <br />
-                            Gift Shop
+                            Welcome To StyleCart: Your Online Fashion Destination 
+                          
                           </h1>
                           <p>
-                            Sequi perspiciatis nulla reiciendis, rem, tenetur impedit, eveniet non necessitatibus error distinctio mollitia suscipit. Nostrum fugit doloribus consequatur distinctio esse, possimus maiores aliquid repellat beatae cum, perspiciatis enim, accusantium perferendis.
+                          Welcome to StyleCart, your ultimate destination for trendy online fashion. Step into a world where style meets convenience, and discover the latest in clothing, accessories, and more—all at your fingertips. StyleCart is your one-stop shop for everything fashion, bringing you the best looks with just a click.
                           </p>
                           <a href="">Contact Us</a>
                         </div>
@@ -128,11 +128,10 @@ function Dashboard() {
                       <div className="col-md-7">
                         <div className="detail-box">
                           <h1>
-                            Welcome To Our <br />
-                            Gift Shop
+                          Welcome To StyleCart: Your Online Fashion Destination
                           </h1>
                           <p>
-                            Sequi perspiciatis nulla reiciendis, rem, tenetur impedit, eveniet non necessitatibus error distinctio mollitia suscipit. Nostrum fugit doloribus consequatur distinctio esse, possimus maiores aliquid repellat beatae cum, perspiciatis enim, accusantium perferendis.
+                          Welcome to StyleCart, your ultimate destination for trendy online fashion. Step into a world where style meets convenience, and discover the latest in clothing, accessories, and more—all at your fingertips. StyleCart is your one-stop shop for everything fashion, bringing you the best looks with just a click.
                           </p>
                           <a href="">Contact Us</a>
                         </div>
@@ -151,11 +150,10 @@ function Dashboard() {
                       <div className="col-md-7">
                         <div className="detail-box">
                           <h1>
-                            Welcome To Our <br />
-                            Gift Shop
+                          Welcome To StyleCart: Your Online Fashion Destination
                           </h1>
                           <p>
-                            Sequi perspiciatis nulla reiciendis, rem, tenetur impedit, eveniet non necessitatibus error distinctio mollitia suscipit. Nostrum fugit doloribus consequatur distinctio esse, possimus maiores aliquid repellat beatae cum, perspiciatis enim, accusantium perferendis.
+                          Welcome to StyleCart, your ultimate destination for trendy online fashion. Step into a world where style meets convenience, and discover the latest in clothing, accessories, and more—all at your fingertips. StyleCart is your one-stop shop for everything fashion, bringing you the best looks with just a click.
                           </p>
                           <Link to="/contact-us">
                             Contact Us
@@ -261,10 +259,7 @@ function Dashboard() {
                     </h2>
                   </div>
                   <p>
-                    Qui ex dolore at repellat, quia neque doloribus omnis adipisci,
-                    ipsum eos odio fugit ut eveniet blanditiis praesentium totam non
-                    nostrum dignissimos nihil eius facere et eaque. Qui, animi
-                    obcaecati.
+                  Discover the best savings on our latest arrivals—fresh styles, unbeatable prices! Stay ahead of the trends without breaking the bank. Shop now and enjoy exclusive deals on all the newest fashion drops.
                   </p>
                   <div className="btn-box">
                     <Link to="/shop" className="btn1">
@@ -386,7 +381,7 @@ function Dashboard() {
                 </div>
                 <div className="detail-box">
                   <h5>Fast Delivery</h5>
-                  <p>variations of passages of Lorem Ipsum available</p>
+                 
                 </div>
               </div>
             </div>
@@ -512,7 +507,7 @@ function Dashboard() {
                 </div>
                 <div className="detail-box">
                   <h5>Free Shiping</h5>
-                  <p>variations of passages of Lorem Ipsum available</p>
+                  
                 </div>
               </div>
             </div>
@@ -536,7 +531,7 @@ function Dashboard() {
                 </div>
                 <div className="detail-box">
                   <h5>Best Quality</h5>
-                  <p>variations of passages of Lorem Ipsum available</p>
+                 
                 </div>
               </div>
             </div>
@@ -560,15 +555,12 @@ function Dashboard() {
                 <div className="detail-box">
                   <div className="heading_container">
                     <h2>
-                      Gifts for your <br />
+                      Fashion for your <br />
                       loved ones
                     </h2>
                   </div>
                   <p>
-                    Omnis ex nam laudantium odit illum harum, excepturi accusamus at
-                    corrupti, velit blanditiis unde perspiciatis, vitae minus culpa?
-                    Beatae at aut consequuntur porro adipisci aliquam eaque iste
-                    ducimus expedita accusantium?
+                  Celebrate your loved ones with the gift of fashion—because nothing says you care like great style. From timeless classics to trendy picks, find something special for everyone you adore. Make every moment memorable with fashion that speaks from the heart.
                   </p>
                   <div className="btn-box">
                     <Link to="/shop" className="btn1">
@@ -653,20 +645,13 @@ function Dashboard() {
                 <div className="box">
                   <div className="client_info">
                     <div className="client_name">
-                      <h5>Morijorch</h5>
-                      <h6>Default model text</h6>
+                      <h5>— Aarav S.</h5>
+                      {/* <h6>Default model text</h6> */}
                     </div>
                     <i className="fa fa-quote-left" aria-hidden="true" />
                   </div>
                   <p>
-                    editors now use Lorem Ipsum as their default model text, and a
-                    search for 'lorem ipsum' will uncover many web sites still in
-                    their infancy. Variouseditors now use Lorem Ipsum as their
-                    default model text, and a search for 'lorem ipsum' will uncover
-                    many web sites still in their infancy. Variouseditors now use
-                    Lorem Ipsum as their default model text, and a search for 'lorem
-                    ipsum' will uncover many web sites still in their infancy.
-                    Various
+                  "StyleCart has completely changed the way I shop for clothes online. The interface is smooth, the collections are always on point, and the delivery is super fast. I love how easy it is to find exactly what I’m looking for—definitely my go-to fashion destination!"
                   </p>
                 </div>
               </div>
@@ -674,19 +659,13 @@ function Dashboard() {
                 <div className="box">
                   <div className="client_info">
                     <div className="client_name">
-                      <h5>Rochak</h5>
-                      <h6>Default model text</h6>
+                      <h5>— Nikita M.</h5>
+                      {/* <h6>Default model text</h6> */}
                     </div>
                     <i className="fa fa-quote-left" aria-hidden="true" />
                   </div>
                   <p>
-                    Variouseditors now use Lorem Ipsum as their default model text,
-                    and a search for 'lorem ipsum' will uncover many web sites still
-                    in their infancy. Variouseditors now use Lorem Ipsum as their
-                    default model text, and a search for 'lorem ipsum' will uncover
-                    many web sites still in their infancy. editors now use Lorem
-                    Ipsum as their default model text, and a search for 'lorem
-                    ipsum' will uncover many web sites still in their infancy.
+                  "I bought a birthday outfit for my sister from StyleCart, and she absolutely loved it! The quality was top-notch, and the customer support helped me choose the right size. It's refreshing to find a site that actually cares about customer satisfaction."
                   </p>
                 </div>
               </div>
@@ -694,19 +673,13 @@ function Dashboard() {
                 <div className="box">
                   <div className="client_info">
                     <div className="client_name">
-                      <h5>Brad Johns</h5>
-                      <h6>Default model text</h6>
+                      <h5>— Rohan D.</h5>
+                      {/* <h6>Default model text</h6> */}
                     </div>
                     <i className="fa fa-quote-left" aria-hidden="true" />
                   </div>
                   <p>
-                    Variouseditors now use Lorem Ipsum as their default model text,
-                    and a search for 'lorem ipsum' will uncover many web sites still
-                    in their infancy, editors now use Lorem Ipsum as their default
-                    model text, and a search for 'lorem ipsum' will uncover many web
-                    sites still in their infancy. Variouseditors now use Lorem Ipsum
-                    as their default model text, and a search for 'lorem ipsum' will
-                    uncover many web sites still in their infancy. Various
+                  "From casual wear to formal pieces, StyleCart never disappoints. I’m always impressed by the variety and the constant flow of new arrivals. Plus, the deals and savings are a real bonus—stylish and affordable, what more could you ask for?"
                   </p>
                 </div>
               </div>
@@ -759,9 +732,7 @@ function Dashboard() {
               <div className="col-md-6 col-lg-3">
                 <h6>ABOUT US</h6>
                 <p>
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
-                  doLorem ipsum dolor sit amet, consectetur adipiscing elit, sed
-                  doLorem ipsum dolor sit amet,
+                Welcome to StyleCart, your ultimate destination for trendy online fashion. Step into a world where style meets convenience, and discover the latest in clothing, accessories, and more—all at your fingertips. StyleCart is your one-stop shop for everything fashion, bringing you the best looks with just a click.
                 </p>
               </div>
               <div className="col-md-6 col-lg-3">
@@ -776,9 +747,7 @@ function Dashboard() {
               <div className="col-md-6 col-lg-3">
                 <h6>NEED HELP</h6>
                 <p>
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
-                  doLorem ipsum dolor sit amet, consectetur adipiscing elit, sed
-                  doLorem ipsum dolor sit amet,
+                We're here to assist you with any questions or issues you face while browsing, shopping, or managing your account. Reach out anytime—your smooth experience is our priority!
                 </p>
               </div>
               <div className="col-md-6 col-lg-3">
@@ -786,7 +755,7 @@ function Dashboard() {
                 <div className="info_link-box">
                   <a href="">
                     <i className="fa fa-map-marker" aria-hidden="true" />
-                    <span> Gb road 123 london Uk </span>
+                    <span> 12 Chester Road London NW46 7GT </span>
                   </a>
                   <a href="">
                     <i className="fa fa-phone" aria-hidden="true" />

@@ -75,9 +75,7 @@ function ContactUs() {
         <div className="col-md-6 col-lg-3">
           <h6>ABOUT US</h6>
           <p>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
-            doLorem ipsum dolor sit amet, consectetur adipiscing elit, sed
-            doLorem ipsum dolor sit amet,
+          Welcome to StyleCart, your ultimate destination for trendy online fashion. Step into a world where style meets convenience, and discover the latest in clothing, accessories, and more—all at your fingertips. StyleCart is your one-stop shop for everything fashion, bringing you the best looks with just a click.
           </p>
         </div>
         <div className="col-md-6 col-lg-3">
@@ -92,9 +90,7 @@ function ContactUs() {
         <div className="col-md-6 col-lg-3">
           <h6>NEED HELP</h6>
           <p>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
-            doLorem ipsum dolor sit amet, consectetur adipiscing elit, sed
-            doLorem ipsum dolor sit amet,
+          We're here to assist you with any questions or issues you face while browsing, shopping, or managing your account. Reach out anytime—your smooth experience is our priority!
           </p>
         </div>
         <div className="col-md-6 col-lg-3">
@@ -102,7 +98,7 @@ function ContactUs() {
           <div className="info_link-box">
             <a href="">
               <i className="fa fa-map-marker" aria-hidden="true" />
-              <span> Gb road 123 london Uk </span>
+              <span> 12 Chester Road London NW46 7GT </span>
             </a>
             <a href="">
               <i className="fa fa-phone" aria-hidden="true" />

@@ -17,7 +17,9 @@ app.use(express.urlencoded({ extended: true }));
 app.use(cors());
 
 // MongoDB connection
-connectToMongoDB("mongodb+srv://hardikkhandelwal2514:snVRIBirhP7QxR3u@hardijk.riigjae.mongodb.net/?retryWrites=true&w=majority&appName=Hardijk")
+connectToMongoDB("mongodb+srv://hardikkhandelwal2514:hardik25@hardijk.riigjae.mongodb.net/?retryWrites=true&w=majority&appName=Hardijk")
+//("mongodb+srv://hardikkhandelwal2514:snVRIBirhP7QxR3u@cluster0.chlr3v6.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
+//("mongodb+srv://hardikkhandelwal2514:snVRIBirhP7QxR3u@hardijk.riigjae.mongodb.net/?retryWrites=true&w=majority&appName=Hardijk")
     .then(() => {
         console.log("MongoDB Started");
     })
